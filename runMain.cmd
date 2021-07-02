@@ -1,0 +1,1 @@
+java -cp beanxml;target\classes;target\spring-expression-4.2.2.RELEASE.jar;target\commons-logging-1.1.jar;target\spring-beans-4.2.2.RELEASE.jar;target\spring-context-4.2.2.RELEASE.jar;target\spring-core-4.2.2.RELEASE.jar com.zms.Main

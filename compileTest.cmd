@@ -1,0 +1,1 @@
+javac -d target\test-classes -cp target\spring-expression-4.2.2.RELEASE.jar;target\classes;target\commons-logging-1.1.jar;target\junit-4.10.jar;target\spring-context-4.2.2.RELEASE.jar;target\spring-core-4.2.2.RELEASE.jar;target\spring-beans-4.2.2.RELEASE.jar SpringAopTest.java
